@@ -1,0 +1,174 @@
+{
+  "profile": {
+    "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCa7qtGvpdhnSkZpHI-nhipg3VQBMyPWoMpM_Lwhq_UcqRPTeurh3TBtAMKXVUO5AARHGK3KrITJA25z1xwhHP6j9h5OXfCmC-ISppoNgaNoVsbwyPw-krxsr0a5FE1c/s200/190368_1693269290574_1203053591_31474408_5748150_n.jpg",
+    "name": "@Terzier",
+    "verified": true,
+    "bio": "Hi. Lets connect and be friends!"
+  },
+  "links": [
+    {
+      "type": "link",
+      "label": "Website",
+      "url": "https://example.com",
+      "icon": "bi-link-45deg",
+      "colorClass": "ico-link"
+    },
+    {
+      "type": "dropdown",
+      "label": "Buy Me A Coffee",
+      "icon": "bi-cup-hot",
+      "colorClass": "ico-coffee",
+      "items": [
+        { "label": "Ko-fi", "url": "https://ko-fi.com/" },
+        { "label": "Saweria", "url": "https://saweria.co/" },
+        { "label": "Trakteer", "url": "https://trakteer.id/" }
+      ]
+    },
+    {
+      "type": "link",
+      "label": "Facebook",
+      "url": "https://facebook.com/",
+      "icon": "bi-facebook",
+      "colorClass": "ico-facebook"
+    },
+    {
+      "type": "link",
+      "label": "Instagram",
+      "url": "https://instagram.com/",
+      "icon": "bi-instagram",
+      "colorClass": "ico-instagram"
+    },
+    {
+      "type": "link",
+      "label": "Twitter / X",
+      "url": "https://twitter.com/",
+      "icon": "bi-twitter-x",
+      "colorClass": "ico-twitter"
+    },
+    {
+      "type": "link",
+      "label": "Youtube",
+      "url": "https://youtube.com/",
+      "icon": "bi-youtube",
+      "colorClass": "ico-youtube"
+    },
+    {
+      "type": "link",
+      "label": "Github",
+      "url": "https://github.com/",
+      "icon": "bi-github",
+      "colorClass": "ico-github"
+    },
+    {
+      "type": "link",
+      "label": "Tiktok",
+      "url": "https://tiktok.com/",
+      "icon": "bi-tiktok",
+      "colorClass": "ico-tiktok"
+    },
+    {
+      "type": "link",
+      "label": "Telegram",
+      "url": "https://t.me/",
+      "icon": "bi-telegram",
+      "colorClass": "ico-telegram"
+    },
+    {
+      "type": "link",
+      "label": "Pinterest",
+      "url": "https://pinterest.com/",
+      "icon": "bi-pinterest",
+      "colorClass": "ico-pinterest"
+    },
+    {
+      "type": "link",
+      "label": "Linkedin",
+      "url": "https://linkedin.com/",
+      "icon": "bi-linkedin",
+      "colorClass": "ico-linkedin"
+    },
+    {
+      "type": "link",
+      "label": "Spotify",
+      "url": "https://spotify.com/",
+      "icon": "bi-spotify",
+      "colorClass": "ico-spotify"
+    },
+    {
+      "type": "link",
+      "label": "Discord",
+      "url": "https://discord.com/",
+      "icon": "bi-discord",
+      "colorClass": "ico-discord"
+    },
+    {
+      "type": "link",
+      "label": "Dribbble",
+      "url": "https://dribbble.com/",
+      "icon": "bi-dribbble",
+      "colorClass": "ico-dribbble"
+    },
+    {
+      "type": "link",
+      "label": "Medium",
+      "url": "https://medium.com/",
+      "icon": "bi-medium",
+      "colorClass": "ico-medium"
+    },
+    {
+      "type": "link",
+      "label": "Paypal",
+      "url": "https://paypal.com/",
+      "icon": "bi-paypal",
+      "colorClass": "ico-paypal"
+    },
+    {
+      "type": "link",
+      "label": "Twitch",
+      "url": "https://twitch.tv/",
+      "icon": "bi-twitch",
+      "colorClass": "ico-twitch"
+    },
+    {
+      "type": "link",
+      "label": "Whatsapp",
+      "url": "https://wa.me/",
+      "icon": "bi-whatsapp",
+      "colorClass": "ico-whatsapp"
+    },
+    {
+      "type": "link",
+      "label": "Threads",
+      "url": "https://threads.net/",
+      "icon": "bi-threads",
+      "colorClass": "ico-threads"
+    },
+    {
+      "type": "dropdown",
+      "label": "Marketplace",
+      "icon": "bi-shop",
+      "colorClass": "ico-shop",
+      "items": [
+        { "label": "Item 1", "url": "#" },
+        { "label": "Item 2", "url": "#" }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "Free Web Tools",
+      "icon": "bi-cup-hot",
+      "description": "These are the most visited tools because they contain useful information or resources.",
+      "pills": [
+        { "label": "WA Spoilers", "url": "#", "icon": "bi-link-45deg" },
+        { "label": "Image To Webp", "url": "#", "icon": "bi-link-45deg" },
+        { "label": "IG Font Generator", "url": "#", "icon": "bi-link-45deg" },
+        { "label": "HTML Parse", "url": "#", "icon": "bi-link-45deg" },
+        { "label": "Gmail Generator", "url": "#", "icon": "bi-link-45deg" },
+        { "label": "Fake Tweet", "url": "#", "icon": "bi-link-45deg" },
+        { "label": "Visitor IP", "url": "#", "icon": "bi-link-45deg" },
+        { "label": "Color Palettes", "url": "#", "icon": "bi-link-45deg" }
+      ]
+    }
+  ]
+}

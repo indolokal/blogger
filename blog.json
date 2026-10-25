@@ -40,13 +40,6 @@
     },
     {
       "type": "link",
-      "label": "Twitter / X",
-      "url": "https://twitter.com/",
-      "icon": "bi-twitter-x",
-      "colorClass": "ico-twitter"
-    },
-    {
-      "type": "link",
       "label": "Youtube",
       "url": "https://youtube.com/",
       "icon": "bi-youtube",
@@ -54,24 +47,10 @@
     },
     {
       "type": "link",
-      "label": "Github",
-      "url": "https://github.com/",
-      "icon": "bi-github",
-      "colorClass": "ico-github"
-    },
-    {
-      "type": "link",
       "label": "Tiktok",
       "url": "https://tiktok.com/",
       "icon": "bi-tiktok",
       "colorClass": "ico-tiktok"
-    },
-    {
-      "type": "link",
-      "label": "Telegram",
-      "url": "https://t.me/",
-      "icon": "bi-telegram",
-      "colorClass": "ico-telegram"
     },
     {
       "type": "link",
@@ -96,20 +75,6 @@
     },
     {
       "type": "link",
-      "label": "Discord",
-      "url": "https://discord.com/",
-      "icon": "bi-discord",
-      "colorClass": "ico-discord"
-    },
-    {
-      "type": "link",
-      "label": "Dribbble",
-      "url": "https://dribbble.com/",
-      "icon": "bi-dribbble",
-      "colorClass": "ico-dribbble"
-    },
-    {
-      "type": "link",
       "label": "Medium",
       "url": "https://medium.com/",
       "icon": "bi-medium",
@@ -121,13 +86,6 @@
       "url": "https://paypal.com/",
       "icon": "bi-paypal",
       "colorClass": "ico-paypal"
-    },
-    {
-      "type": "link",
-      "label": "Twitch",
-      "url": "https://twitch.tv/",
-      "icon": "bi-twitch",
-      "colorClass": "ico-twitch"
     },
     {
       "type": "link",

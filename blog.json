@@ -1,7 +1,13 @@
 {
+  "background": {
+    "type": "image",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1920&q=80",
+    "overlay": true,
+    "overlayOpacity": 0.55
+  },
   "profile": {
-    "avatar": "https://scontent.fsoc15-1.fna.fbcdn.net/v/t39.30808-6/449078816_122146514204244850_812016540290803559_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x2048&ctp=s2048x2048&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TBd3byfqY3IQ7kNvwFvWMll&_nc_oc=AdpWCF38zqicBmuvIcAIO0TedSgaXXHyL-rg7oyGOMNC2Rxf4teOPFRzQhgLNQrKgws&_nc_zt=23&_nc_ht=scontent.fsoc15-1.fna&_nc_gid=zQpQKffjjUlT4q58C0OnWg&_nc_ss=7b2a8&oh=00_AQP7GULdL-hsV0uFDoRApZsr59DHuNa0JbpvECLKxasfYA&oe=6AE3F928",
-    "name": "@shoplampuled",
+    "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFCa7qtGvpdhnSkZpHI-nhipg3VQBMyPWoMpM_Lwhq_UcqRPTeurh3TBtAMKXVUO5AARHGK3KrITJA25z1xwhHP6j9h5OXfCmC-ISppoNgaNoVsbwyPw-krxsr0a5FE1c/s200/190368_1693269290574_1203053591_31474408_5748150_n.jpg",
+    "name": "@Terzier",
     "verified": true,
     "bio": "Hi. Lets connect and be friends!"
   },
@@ -40,6 +46,13 @@
     },
     {
       "type": "link",
+      "label": "Twitter / X",
+      "url": "https://twitter.com/",
+      "icon": "bi-twitter-x",
+      "colorClass": "ico-twitter"
+    },
+    {
+      "type": "link",
       "label": "Youtube",
       "url": "https://youtube.com/",
       "icon": "bi-youtube",
@@ -47,10 +60,24 @@
     },
     {
       "type": "link",
+      "label": "Github",
+      "url": "https://github.com/",
+      "icon": "bi-github",
+      "colorClass": "ico-github"
+    },
+    {
+      "type": "link",
       "label": "Tiktok",
       "url": "https://tiktok.com/",
       "icon": "bi-tiktok",
       "colorClass": "ico-tiktok"
+    },
+    {
+      "type": "link",
+      "label": "Telegram",
+      "url": "https://t.me/",
+      "icon": "bi-telegram",
+      "colorClass": "ico-telegram"
     },
     {
       "type": "link",
@@ -75,6 +102,20 @@
     },
     {
       "type": "link",
+      "label": "Discord",
+      "url": "https://discord.com/",
+      "icon": "bi-discord",
+      "colorClass": "ico-discord"
+    },
+    {
+      "type": "link",
+      "label": "Dribbble",
+      "url": "https://dribbble.com/",
+      "icon": "bi-dribbble",
+      "colorClass": "ico-dribbble"
+    },
+    {
+      "type": "link",
       "label": "Medium",
       "url": "https://medium.com/",
       "icon": "bi-medium",
@@ -86,6 +127,13 @@
       "url": "https://paypal.com/",
       "icon": "bi-paypal",
       "colorClass": "ico-paypal"
+    },
+    {
+      "type": "link",
+      "label": "Twitch",
+      "url": "https://twitch.tv/",
+      "icon": "bi-twitch",
+      "colorClass": "ico-twitch"
     },
     {
       "type": "link",
